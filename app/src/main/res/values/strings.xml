@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuanLyNhanVien</string>
+    <string-array name="arrayDonvI">
+        <item>Phòng kế toán</item>
+        <item>Phòng kỹ thuật</item>
+        <item>Phòng marketing</item>
+        <item>Phòng quản lý nhân sự</item>
+        <item>Phòng bảo vệ</item>
+    </string-array>
+</resources>
